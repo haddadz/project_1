@@ -4,6 +4,7 @@ date: "9/12/2020"
 output: 
   html_document:
       keep_md: true
+      self_contained: true
 ---
 
 
